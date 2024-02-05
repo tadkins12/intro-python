@@ -1,0 +1,7 @@
+1.an example of abstruction is when im at my house cooking by myself. obosted to a professional kitchen full of chefs.
+
+2. an interger is a number without a decimal point and a float is a floating number 
+
+3.refers to the object and not the memory location
+
+in a program
